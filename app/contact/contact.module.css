@@ -1,0 +1,87 @@
+.contact {
+  padding: 2rem;
+  background-color: #0d1b2a;
+  color: #f0f0f0;
+  text-align: center;
+}
+
+.title {
+  font-size: 3rem;
+  color: #ffd700;
+  margin-bottom: 1rem;
+}
+
+.content {
+  font-size: 1.5rem;
+  max-width: 700px;
+  margin: 0 auto 1rem auto;
+  color: #cccccc;
+}
+
+.details {
+  font-size: 1rem;
+  list-style-type: none;
+  padding: 10px;
+  color: #e5e5e5;
+}
+
+.li {
+  font-size: 1rem;
+  margin: 0.5rem 0;
+}
+
+.form {
+  padding: 2rem;
+  background-color: #1a3a4d;
+  color: #ffffff;
+  text-align: center;
+}
+
+.title2 {
+  font-size: 2rem;
+  color: #ffd700;
+  margin-bottom: 1rem;
+}
+
+.contactform {
+  display: flex;
+  flex-direction: column;
+  max-width: 500px;
+  margin: 0 auto;
+}
+
+.label {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 1rem;
+  color: #e0e0e0;
+}
+
+.input,
+.textarea {
+  padding: 0.5rem;
+  border: 1px solid #cccccc;
+  border-radius: 5px;
+  margin-top: 0.5rem;
+  background-color: #2d2d2d;
+  color: #ffffff;
+}
+
+.textarea {
+  height: 100px;
+}
+
+.button {
+  padding: 0.75rem;
+  background-color: #ffd700;
+  color: #0d1b2a;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-weight: bold;
+  margin-top: 1rem;
+}
+
+.button:hover {
+  background-color: #e6b800;
+}

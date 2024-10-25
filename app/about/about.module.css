@@ -1,0 +1,62 @@
+.event {
+  padding: 2rem;
+  background-color: #0d1b2a;
+  color: #f0f0f0;
+  text-align: center;
+  line-height: 2.5rem;
+}
+
+.title {
+  font-size: 3rem;
+  color: #ffd700;
+  margin-bottom: 1rem;
+}
+
+.content {
+  font-size: 1.5rem;
+  max-width: 700px;
+  margin: 0 auto;
+  color: #cccccc;
+}
+
+.mission {
+  padding: 2rem;
+  background-color: #1a3a4d;
+  color: #ffffff;
+  text-align: center;
+  line-height: 2.5rem;
+}
+
+.title2 {
+  font-size: 3rem;
+  color: #ffd700;
+  margin-bottom: 1rem;
+}
+
+.content2 {
+  font-size: 1.5rem;
+  max-width: 700px;
+  margin: 0 auto;
+  color: #e0e0e0;
+}
+
+.history {
+  padding: 2rem;
+  background-color: #2d2d2d;
+  color: #ffffff;
+  text-align: center;
+  line-height: 2.5rem;
+}
+
+.title3 {
+  font-size: 3rem;
+  color: #ffd700;
+  margin-bottom: 1rem;
+}
+
+.content3 {
+  font-size: 1.5rem;
+  max-width: 700px;
+  margin: 0 auto;
+  color: #e5e5e5;
+}
